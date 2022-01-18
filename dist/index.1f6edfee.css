@@ -1,4 +1,23 @@
 .my-flix {
   color: steelblue;
 }
+.main-view__grid {
+  display: flex;
+  justify-content: center;
+}
+.main-view__grid {
+  display: flex;
+  justify-content: center;
+}
+.main-view__grid {
+  display: flex;
+  justify-content: center;
+}
+.main-view__grid {
+  display: flex;
+  justify-content: center;
+}
+.movie-view:first-child {
+  align-items: center;
+}
 /*# sourceMappingURL=index.1f6edfee.css.map */
