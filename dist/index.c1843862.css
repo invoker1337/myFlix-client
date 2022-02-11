@@ -6,18 +6,13 @@
   display: flex;
   justify-content: center;
 }
-.main-view__grid {
-  display: flex;
-  justify-content: center;
-}
 .movie-view:first-child {
   align-items: center;
 }
 
 
 
-
 .my-flix {
   color: steelblue;
 }
-/*# sourceMappingURL=index.8fa38637.css.map */
+/*# sourceMappingURL=index.c1843862.css.map */
